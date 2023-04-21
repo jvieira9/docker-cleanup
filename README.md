@@ -10,17 +10,17 @@ This repository contains a bash script designed to clean up your Docker ecosyste
 
 This script cleans up your Docker ecosystem, including:
 
-- All running containers
-- All images
-- All volumes
-- All custom networks
+- All running containers;
+- All images;
+- All volumes;
+- All custom networks.
 
 ### Functionality
 
-1. The script checks if Docker is installed and exits if it isn't.
-2. The script prompts the user to confirm whether they want to proceed with the cleaning process.
-3. The script checks if there are any containers, images, volumes, or custom networks to delete.
-4. The script proceeds to stop and delete all running containers, delete all images, delete all volumes, and delete all custom networks.
+1. The script checks if Docker is installed and exits if it isn't;
+2. The script prompts the user to confirm whether they want to proceed with the cleaning process;
+3. The script checks if there are any containers, images, volumes, or custom networks to delete;
+4. The script proceeds to stop and delete all running containers, delete all images, delete all volumes, and delete all custom networks;
 5. If any errors occur during the execution of the script, an error message is displayed, and the script is aborted.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
