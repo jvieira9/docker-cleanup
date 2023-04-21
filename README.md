@@ -34,6 +34,10 @@ To execute the script on your machine, follow these steps:
     ```
     git clone https://github.com/jvieira9/docker-cleanup.git
     ```
+    or
+    ```
+    git clone git@github.com:jvieira9/docker-cleanup.git
+    ```
 
 2. Navigate to the directory where the repository was cloned using the command:
 
