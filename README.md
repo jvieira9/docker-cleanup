@@ -42,7 +42,7 @@ To execute the script on your machine, follow these steps:
 2. Navigate to the directory where the repository was cloned using the command:
 
     ```
-    cd <repository_name>
+    cd docker-cleanup
     ```
 
 3. Modify the permissions of the script before executing it. To do this, run the following command: 
